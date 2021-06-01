@@ -1,0 +1,11 @@
+{
+  "name": "amazon-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
+    "ora": "^5.4.0"
+  }
+}
